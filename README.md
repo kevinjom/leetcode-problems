@@ -1,4 +1,4 @@
 leetcode-problems
 =================
 
-java solution for leetcode-problems
+solution for [leetcode-problems](https://oj.leetcode.com/problemset/algorithms/)
